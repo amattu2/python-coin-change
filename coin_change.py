@@ -1,3 +1,10 @@
+'''
+	Produced 2019
+	By https://github.com/amattu2
+	Copy Alec M.
+	License GNU Affero General Public License v3.0
+'''
+
 # Imports
 import sys
 
